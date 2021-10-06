@@ -3,14 +3,8 @@ const fullNow = new Date().toISOString();
 const now = fullNow.substr(0, 10);
 const POST = `---
 title: XXXXXXXXXXXXX
-description: XXXXXXXX...
 author: Alvaro Separovich Cassiano dos Santos
 reviser: Pietro Menezes Silva
-date: '${now}'
-modified_date: '${now}'
-image: /assets/images/posts/random-img.jpg
-tags:
-  - XXXXXXXXXXX
 ---   
 
 ______
