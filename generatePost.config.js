@@ -7,10 +7,9 @@ author: Alvaro Separovich Cassiano dos Santos
 reviser: Pietro Menezes Silva
 ---   
 
+xxxxx
+
 ______
-
-> XXXXXXXXXXXXXXXX  
-
 
 > Revisado Por Pietro Menezes Silva
 `;
